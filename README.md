@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![aws-sam-php](https://github-readme-stats.vercel.app/api/pin/?username=rdok&repo=aws-sam-php&layout=compact&theme=gruvbox)](https://github.com/rdok/aws-sam-php)
 [![gif-generator](https://github-readme-stats.vercel.app/api/pin/?username=rdok&repo=gif-generator&layout=compact&theme=gruvbox)](https://github.com/rdok/gif-generator)
-[![aws-sam-graphql](https://github-readme-stats.vercel.app/api/pin/?username=rdok&repo=aws-sam-graphql&layout=compact&theme=gruvbox)](https://github.com/rdok/aws-sam-graphql)
+[![serverless-graphql](https://github-readme-stats.vercel.app/api/pin/?username=rdok&repo=serverless-graphql&layout=compact&theme=gruvbox)](https://github.com/rdok/serverless-graphql)
 [![lean-pdf-editor](https://github-readme-stats.vercel.app/api/pin/?username=rdok&repo=lean-pdf-editor&layout=compact&theme=gruvbox)](https://github.com/rdok/lean-pdf-editor)
 [![microservices-app-kata](https://github-readme-stats.vercel.app/api/pin/?username=rdok&repo=microservices-app-kata&layout=compact&theme=gruvbox)](https://github.com/rdok/microservices-app-kata)
 [![expo-nextjs-template](https://github-readme-stats.vercel.app/api/pin/?username=rdok&repo=expo-nextjs-template&layout=compact&theme=gruvbox)](https://github.com/rdok/expo-nextjs-template)
