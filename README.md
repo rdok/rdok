@@ -6,7 +6,7 @@
 [![serverless-graphql][serverless_graphql_stats]][serverless_graphql_repo]
 
 [github_stats]: https://github-readme-stats.vercel.app/api?username=rdok&count_private=true&show_icons=true&theme=gruvbox&custom_title=Stats&layout=compact
-[wakatime_stats]: https://github-readme-stats.vercel.app/api/wakatime?username=rdok&theme=gruvbox
+[wakatime_stats]: https://github-readme-stats.vercel.app/api/wakatime?username=rdok&theme=gruvbox&layout=compact
 [aws_sam_php_stats]: https://github-readme-stats.vercel.app/api/pin/?username=rdok&repo=aws-sam-php&layout=compact&theme=gruvbox
 [aws_sam_php_repo]: https://github.com/rdok/aws-sam-php
 [serverless_laravel_stats]: https://github-readme-stats.vercel.app/api/pin/?username=rdok&repo=serverless-laravel&layout=compact&theme=gruvbox
