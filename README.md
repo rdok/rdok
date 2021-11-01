@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Riz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rdok&layout=compact&theme=gruvbox&hide_title=true)](https://wakatime.com/@rdok)
-![Riz's github stats](https://github-readme-stats.vercel.app/api?username=rdok&count_private=true&show_icons=true&theme=gruvbox&custom_title=GitHub%20Stats&hide_rank=true) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rdok&count_private=true&show_icons=true&theme=gruvbox&custom_title=Stats&hide_rank=true) 
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rdok&layout=compact&theme=gruvbox&hide_title=true&range=last_7_days)
 
 [![serverless-laravel](https://github-readme-stats.vercel.app/api/pin/?username=rdok&repo=serverless-laravel&layout=compact&theme=gruvbox)](https://github.com/rdok/serverless-laravel)
 [![aws-sam-php](https://github-readme-stats.vercel.app/api/pin/?username=rdok&repo=aws-sam-php&layout=compact&theme=gruvbox)](https://github.com/rdok/aws-sam-php)
