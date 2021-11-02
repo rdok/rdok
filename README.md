@@ -1,9 +1,10 @@
 [![spotify-github-profile][spotify_profile]][spotify_redirect]![Wakatime Stats][wakatime_stats]  
-![GitHub Stats][github_stats]  
 [![aws-sam-php][aws_sam_php_stats]][aws_sam_php_repo]
 [![serverless-laravel][serverless_laravel_stats]][serverless_laravel_repo]
 [![gif-generator][gif_generator_stats]][gif_generator_repo]
-[![serverless-graphql][serverless_graphql_stats]][serverless_graphql_repo]
+[![serverless-graphql][serverless_graphql_stats]][serverless_graphql_repo] 
+![GitHub Stats][github_stats]  
+
 
 [github_stats]: https://github-readme-stats.vercel.app/api?username=rdok&count_private=true&show_icons=true&theme=gruvbox&custom_title=Stats
 [wakatime_stats]: https://github-readme-stats.vercel.app/api/wakatime?username=rdok&theme=gruvbox&v=2
