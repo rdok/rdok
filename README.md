@@ -1,5 +1,4 @@
-
-[![spotify-github-profile][spotify_profile]][spotify_redirect]![Wakatime Stats][wakatime_stats]
+![Wakatime Stats][wakatime_stats] [![spotify-github-profile][spotify_profile]][spotify_redirect]
 ![GitHub Stats][github_stats]  
 [![aws-sam-php][aws_sam_php_stats]][aws_sam_php_repo]
 [![serverless-laravel][serverless_laravel_stats]][serverless_laravel_repo]
