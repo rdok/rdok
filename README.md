@@ -1,13 +1,15 @@
-[![spotify-github-profile][spotify_profile]][spotify_redirect]![Wakatime Stats][wakatime_stats]  
+[![spotify-github-profile][spotify_profile]][spotify_redirect] [![Wakatime Stats][wakatime_stats]][wakatime_profile]  
 [![aws-sam-php][aws_sam_php_stats]][aws_sam_php_repo]
 [![serverless-laravel][serverless_laravel_stats]][serverless_laravel_repo]
 [![gif-generator][gif_generator_stats]][gif_generator_repo]
 [![serverless-graphql][serverless_graphql_stats]][serverless_graphql_repo] 
-![GitHub Stats][github_stats]  
+[![GitHub Stats][github_stats]][github_profile]  
 
 
 [github_stats]: https://github-readme-stats.vercel.app/api?username=rdok&count_private=true&show_icons=true&theme=gruvbox&custom_title=Stats
+[github_profile]: https://github.com/rdok
 [wakatime_stats]: https://github-readme-stats.vercel.app/api/wakatime?username=rdok&theme=gruvbox&v=2
+[wakatime_profile]: https://wakatime.com/@rdok
 [aws_sam_php_stats]: https://github-readme-stats.vercel.app/api/pin/?username=rdok&repo=aws-sam-php&theme=gruvbox
 [aws_sam_php_repo]: https://github.com/rdok/aws-sam-php
 [serverless_laravel_stats]: https://github-readme-stats.vercel.app/api/pin/?username=rdok&repo=serverless-laravel&theme=gruvbox
