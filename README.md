@@ -1,5 +1,5 @@
 [![spotify-github-profile][spotify_profile]][spotify_redirect] [![Wakatime Stats][wakatime_stats]][wakatime_profile]  
-[![cyberpunk2077-r6-config-editor][cyberpunk2077_r6_config_editor]][aws_sam_php_repo]
+[![cyberpunk2077-r6-config-editor][cyberpunk2077_r6_config_editor]][cyberpunk2077_r6_config_editor_repo]
 [![serverless-laravel][serverless_laravel_stats]][serverless_laravel_repo]
 [![gif-generator][gif_generator_stats]][gif_generator_repo]
 [![serverless-graphql][serverless_graphql_stats]][serverless_graphql_repo]
@@ -11,7 +11,7 @@
 [wakatime_stats]: https://github-readme-stats.vercel.app/api/wakatime?username=rdok&theme=gruvbox&custom_title=Last%207%20Days&langs_count=15
 [wakatime_profile]: https://wakatime.com/@rdok
 [cyberpunk2077_r6_config_editor]: https://github-readme-stats.vercel.app/api/pin/?username=rdok&repo=cyberpunk2077-r6-config-editor&theme=gruvbox&=v3
-[aws_sam_php_repo]: https://github.com/rdok/aws-sam-php
+[cyberpunk2077_r6_config_editor_repo]: https://github.com/rdok/cyberpunk2077-r6-config-editor
 [serverless_laravel_stats]: https://github-readme-stats.vercel.app/api/pin/?username=rdok&repo=serverless-laravel&theme=gruvbox
 [serverless_laravel_repo]: https://github.com/rdok/serverless-laravel
 [gif_generator_stats]: https://github-readme-stats.vercel.app/api/pin/?username=rdok&repo=gif-generator&theme=gruvbox
