@@ -1,4 +1,4 @@
-[![spotify-github-profile][spotify_profile]][spotify_redirect] [![Wakatime Stats][wakatime_stats]][wakatime_profile]  
+[![Wakatime Stats][wakatime_stats]][wakatime_profile][![spotify-github-profile][spotify_profile]][spotify_redirect] 
 [![cyberpunk2077-r6-config-editor][cyberpunk2077_r6_config_editor]][cyberpunk2077_r6_config_editor_repo]
 [![serverless-laravel][serverless_laravel_stats]][serverless_laravel_repo]
 [![gif-generator][gif_generator_stats]][gif_generator_repo]
