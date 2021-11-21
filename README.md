@@ -7,7 +7,7 @@
 
 
 [github_stats]: https://d3qbzv40zlk2ob.cloudfront.net?username=rdok&count_private=true&show_icons=true&theme=gruvbox&custom_title=Stats
-[wakatime_stats]: https://d3qbzv40zlk2ob.cloudfront.net/wakatime?username=rdok&theme=gruvbox&custom_title=Last%207%20Days&langs_count=15
+[wakatime_stats]: https://d3qbzv40zlk2ob.cloudfront.net/wakatime?username=rdok&theme=gruvbox&langs_count=15
 [wakatime_profile]: https://wakatime.com/@rdok
 [cyberpunk2077_r6_config_editor]: https://d3qbzv40zlk2ob.cloudfront.net/pin/?username=rdok&repo=cyberpunk2077-r6-config-editor&theme=gruvbox
 [cyberpunk2077_r6_config_editor_repo]: https://github.com/rdok/cyberpunk2077-r6-config-editor
