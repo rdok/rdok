@@ -3,8 +3,8 @@
 [![spotify-github-profile][spotify_profile]][spotify_redirect][![Wakatime Stats][wakatime_stats]][wakatime_profile]  
 [![cyberpunk2077-r6-config-editor][cyberpunk2077_r6_config_editor]][cyberpunk2077_r6_config_editor_repo]
 [![aurora-for-serverless-laravel][aurora_for_serverless_laravel_stats]][aurora_for_serverless_laravel_repo]
-[![gif-generator][gif_generator_stats]][gif_generator_repo]
-[![aws_sam_ts_graphql_repo][aws_sam_ts_graphql_stats]][aws_sam_ts_graphql_repo]  
+[![aws_sam_ts_graphql_repo][aws_sam_ts_graphql_stats]][aws_sam_ts_graphql_repo]
+[![gif-generator][gif_generator_stats]][gif_generator_repo]  
 [![GitHub Stats][github_stats]][github_stats]
 
 [github_stats]: https://d3qbzv40zlk2ob.cloudfront.net?username=rdok&count_private=true&show_icons=true&theme=gruvbox&custom_title=Stats&cache_seconds=86400
