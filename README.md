@@ -1,9 +1,9 @@
 
-[![aws-sam-ts][aws_sam_ts_stats]][aws_sam_ts_repo] [![serverless-laravel][serverless_laravel_stats]][serverless_laravel_repo]  
+[![aws-sam-ts][aws_sam_ts_stats]][aws_sam_ts_repo][![aws_sam_ts_graphql_repo][aws_sam_ts_graphql_stats]][aws_sam_ts_graphql_repo]   
 [![spotify-github-profile][spotify_profile]][spotify_redirect][![Wakatime Stats][wakatime_stats]][wakatime_profile]  
 [![cyberpunk2077-r6-config-editor][cyberpunk2077_r6_config_editor]][cyberpunk2077_r6_config_editor_repo]
 [![aurora-for-serverless-laravel][aurora_for_serverless_laravel_stats]][aurora_for_serverless_laravel_repo]
-[![aws_sam_ts_graphql_repo][aws_sam_ts_graphql_stats]][aws_sam_ts_graphql_repo]
+[![serverless-laravel][serverless_laravel_stats]][serverless_laravel_repo]
 [![gif-generator][gif_generator_stats]][gif_generator_repo]  
 [![GitHub Stats][github_stats]][github_stats]
 
