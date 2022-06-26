@@ -11,22 +11,22 @@
 [wakatime_stats]: https://d3qbzv40zlk2ob.cloudfront.net/wakatime?username=rdok&theme=gruvbox&langs_count=15&cache_seconds=86400&range=last_7_days&custom_title=Last%207%20Days
 [wakatime_profile]: https://wakatime.com/@rdok
 
-[aws_sam_ts_stats]: https://d3qbzv40zlk2ob.cloudfront.net/pin/?username=rdok&repo=aws-sam-ts&theme=gruvbox&cache_seconds=86400&v3
+[aws_sam_ts_stats]: https://d3qbzv40zlk2ob.cloudfront.net/pin/?username=rdok&repo=aws-sam-ts&theme=gruvbox&cache_seconds=86400&v4
 [aws_sam_ts_repo]: https://github.com/rdok/aws-sam-ts
-[cyberpunk2077_r6_config_editor]: https://d3qbzv40zlk2ob.cloudfront.net/pin/?username=rdok&repo=cyberpunk2077-r6-config-editor&theme=gruvbox&cache_seconds=86400&v2
+[cyberpunk2077_r6_config_editor]: https://d3qbzv40zlk2ob.cloudfront.net/pin/?username=rdok&repo=cyberpunk2077-r6-config-editor&theme=gruvbox&cache_seconds=86400&v3
 [cyberpunk2077_r6_config_editor_repo]: https://github.com/rdok/cyberpunk2077-r6-config-editor
 
-[serverless_laravel_stats]: https://d3qbzv40zlk2ob.cloudfront.net/pin/?username=rdok&repo=serverless-laravel&theme=gruvbox&cache_seconds=86400&v2
+[serverless_laravel_stats]: https://d3qbzv40zlk2ob.cloudfront.net/pin/?username=rdok&repo=serverless-laravel&theme=gruvbox&cache_seconds=86400&v3
 [serverless_laravel_repo]: https://github.com/rdok/serverless-laravel
 
-[gif_generator_stats]: https://d3qbzv40zlk2ob.cloudfront.net/pin/?username=rdok&repo=gif-generator&theme=gruvbox&cache_seconds=86400&v2
+[gif_generator_stats]: https://d3qbzv40zlk2ob.cloudfront.net/pin/?username=rdok&repo=gif-generator&theme=gruvbox&cache_seconds=86400&v3
 [gif_generator_repo]: https://github.com/rdok/gif-generator
 
-[aws_sam_ts_graphql_stats]: https://d3qbzv40zlk2ob.cloudfront.net/pin/?username=rdok&repo=aws-sam-ts-graphql&theme=gruvbox&cache_seconds=86400&v2
+[aws_sam_ts_graphql_stats]: https://d3qbzv40zlk2ob.cloudfront.net/pin/?username=rdok&repo=aws-sam-ts-graphql&theme=gruvbox&cache_seconds=86400&v3
 [aws_sam_ts_graphql_repo]: https://github.com/rdok/aws-sam-ts-graphql
 
 [spotify_profile]: https://spotify-github-profile.vercel.app/api/view?uid=r.dokollari&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true
 [spotify_redirect]: https://spotify-github-profile.vercel.app/api/view?uid=r.dokollari&redirect=true
 
-[aurora_for_serverless_laravel_stats]: https://d3qbzv40zlk2ob.cloudfront.net/pin/?username=rdok&repo=aurora-for-serverless-laravel&theme=gruvbox&cache_seconds=86400&v3
+[aurora_for_serverless_laravel_stats]: https://d3qbzv40zlk2ob.cloudfront.net/pin/?username=rdok&repo=aurora-for-serverless-laravel&theme=gruvbox&cache_seconds=86400&v4
 [aurora_for_serverless_laravel_repo]: https://github.com/rdok/aurora-for-serverless-laravel
