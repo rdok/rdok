@@ -1,5 +1,5 @@
 
-[![aws-sam-ts][aws_sam_ts_stats]][aws_sam_ts_repo][![aws_sam_ts_graphql_repo][aws_sam_ts_graphql_stats]][aws_sam_ts_graphql_repo]   
+[![aws-ec2-autoscale-based-on-utilisation][aws-ec2-autoscale-based-on-utilisation_stats]][aws-ec2-autoscale-based-on-utilisation_repo][![aws_sam_ts_graphql_repo][aws_sam_ts_graphql_stats]][aws_sam_ts_graphql_repo]   
 [![spotify-github-profile][spotify_profile]][spotify_redirect][![Wakatime Stats][wakatime_stats]][wakatime_profile]  
 [![cyberpunk2077-r6-config-editor][cyberpunk2077_r6_config_editor]][cyberpunk2077_r6_config_editor_repo]
 [![aurora-for-serverless-laravel][aurora_for_serverless_laravel_stats]][aurora_for_serverless_laravel_repo]
@@ -11,8 +11,8 @@
 [wakatime_stats]: https://d3qbzv40zlk2ob.cloudfront.net/wakatime?username=rdok&theme=gruvbox&langs_count=15&cache_seconds=86400&range=last_7_days&custom_title=Last%207%20Days
 [wakatime_profile]: https://wakatime.com/@rdok
 
-[aws_sam_ts_stats]: https://d3qbzv40zlk2ob.cloudfront.net/pin/?username=rdok&repo=aws-sam-ts&theme=gruvbox&cache_seconds=86400&v4
-[aws_sam_ts_repo]: https://github.com/rdok/aws-sam-ts
+[aws-ec2-autoscale-based-on-utilisation_stats]: https://d3qbzv40zlk2ob.cloudfront.net/pin/?username=rdok&repo=aws-ec2-autoscale-based-on-utilisation&theme=gruvbox&cache_seconds=86400&v5
+[aws-ec2-autoscale-based-on-utilisation_repo]: https://github.com/rdok/aws-ec2-autoscale-based-on-utilisation
 [cyberpunk2077_r6_config_editor]: https://d3qbzv40zlk2ob.cloudfront.net/pin/?username=rdok&repo=cyberpunk2077-r6-config-editor&theme=gruvbox&cache_seconds=86400&v3
 [cyberpunk2077_r6_config_editor_repo]: https://github.com/rdok/cyberpunk2077-r6-config-editor
 
