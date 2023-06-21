@@ -1,6 +1,6 @@
 
 [![aws-ec2-autoscale-based-on-utilisation][aws-ec2-autoscale-based-on-utilisation_stats]][aws-ec2-autoscale-based-on-utilisation_repo][![aws_sam_ts_graphql_repo][aws_sam_ts_graphql_stats]][aws_sam_ts_graphql_repo]   
-[![spotify-github-profile][spotify_profile]][spotify_redirect][![Wakatime Stats][wakatime_stats]][wakatime_profile]  
+[![Wakatime Stats][wakatime_stats]][wakatime_profile]  
 [![cyberpunk2077-r6-config-editor][cyberpunk2077_r6_config_editor]][cyberpunk2077_r6_config_editor_repo]
 [![aurora-for-serverless-laravel][aurora_for_serverless_laravel_stats]][aurora_for_serverless_laravel_repo]
 [![serverless-laravel][serverless_laravel_stats]][serverless_laravel_repo]
@@ -24,9 +24,6 @@
 
 [aws_sam_ts_graphql_stats]: https://d3qbzv40zlk2ob.cloudfront.net/pin/?username=rdok&repo=aws-sam-ts-graphql&theme=gruvbox&cache_seconds=86400&v8
 [aws_sam_ts_graphql_repo]: https://github.com/rdok/aws-sam-ts-graphql
-
-[spotify_profile]: https://spotify-github-profile.vercel.app/api/view?uid=r.dokollari&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true
-[spotify_redirect]: https://spotify-github-profile.vercel.app/api/view?uid=r.dokollari&redirect=true
 
 [aurora_for_serverless_laravel_stats]: https://d3qbzv40zlk2ob.cloudfront.net/pin/?username=rdok&repo=aurora-for-serverless-laravel&theme=gruvbox&cache_seconds=86400&v8
 [aurora_for_serverless_laravel_repo]: https://github.com/rdok/aurora-for-serverless-laravel
