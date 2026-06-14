@@ -1,15 +1,15 @@
 
       <svg
-        width="467"
+        width="440"
         height="170"
-        viewBox="0 0 467 170"
+        viewBox="0 0 440 170"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
         aria-labelledby="descId"
       >
         <title id="titleId">GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Commits  (last year) : 2429, Total PRs: 3500, Merged PRs Percentage: 93.63, Contributed to (last year): 40</desc>
+        <desc id="descId">Total Commits  (last year) : 2432, Total PRs: 3500, Merged PRs Percentage: 93.63, Contributed to (last year): 40</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 44.066647212364046;
+        stroke-dashoffset: 44.06623465632333;
       }
     }
   
@@ -110,7 +110,7 @@
           rx="4.5"
           height="99%"
           stroke="#e4e2e2"
-          width="466"
+          width="439"
           fill="#282828"
           stroke-opacity="0"
         />
@@ -137,7 +137,7 @@
         >
           
     <g data-testid="rank-circle"
-          transform="translate(390.5, 35)">
+          transform="translate(368.5, 35)">
         <circle class="rank-circle-rim" cx="-10" cy="8" r="40" />
         <circle class="rank-circle" cx="-10" cy="8" r="40" />
         <g class="rank-text">
