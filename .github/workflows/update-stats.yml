@@ -15,6 +15,7 @@ jobs:
 
       - name: Fetch stats cards
         run: |
+          mkdir -p stats
           BASE="https://github-readme-stats.vercel.app"
           COMMON="username=rdok&theme=gruvbox"
 
