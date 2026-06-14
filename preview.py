@@ -10,7 +10,7 @@ readme = Path("README.md").read_text(encoding="utf-8")
 Path("preview.html").write_text(
     f"""<!DOCTYPE html>
 <html>
-<body style="max-width:896px; margin:auto; padding:20px;">
+<body style="max-width:894px; margin:auto; padding:20px;">
 {readme}
 </body>
 </html>""",
