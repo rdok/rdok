@@ -1,5 +1,7 @@
 
-[![Wakatime Stats][wakatime_stats]][wakatime_profile]  
+[![GitHub Stats][github_stats]][github_profile]
+[![Top Languages][top_langs]][github_profile]
 
-[wakatime_stats]: https://d3qbzv40zlk2ob.cloudfront.net/wakatime?username=rdok&theme=gruvbox&langs_count=15&cache_seconds=86400&range=last_7_days&custom_title=Last%207%20Days
-[wakatime_profile]: https://wakatime.com/@rdok
+[github_stats]: https://d3qbzv40zlk2ob.cloudfront.net/api?username=rdok&theme=gruvbox&show_icons=true&count_private=true&include_all_commits=true
+[top_langs]: https://d3qbzv40zlk2ob.cloudfront.net/api/top-langs?username=rdok&theme=gruvbox&layout=compact&langs_count=15
+[github_profile]: https://github.com/rdok
