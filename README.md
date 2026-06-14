@@ -1,3 +1,2 @@
 
-<img src="stats/github-stats.svg" width="100%" alt="GitHub Stats" />
-<img src="stats/top-langs.svg" width="100%" alt="Top Languages" />
+<img src="stats/github-stats.svg" alt="GitHub Stats" /><img src="stats/top-langs.svg" alt="Top Languages" />

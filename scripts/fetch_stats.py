@@ -12,7 +12,7 @@ CARDS = {
         f"&custom_title=GitHub+Stats"
     ),
     "stats/top-langs.svg": (
-        f"{BASE}/api/top-langs?{COMMON}&layout=compact&langs_count=7&card_width=467"
+        f"{BASE}/api/top-langs?{COMMON}&layout=compact&langs_count=6&card_width=467"
     ),
 }
 
