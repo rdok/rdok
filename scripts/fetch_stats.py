@@ -10,10 +10,9 @@ CARDS = {
         f"&hide=stars,issues"
         f"&show=prs_merged_percentage"
         f"&custom_title=GitHub+Stats"
-        f"&card_width=419"
     ),
     "stats/top-langs.svg": (
-        f"{BASE}/api/top-langs?{COMMON}&layout=compact&langs_count=6&card_width=419"
+        f"{BASE}/api/top-langs?{COMMON}&layout=compact&langs_count=6&card_width=437"
     ),
 }
 
