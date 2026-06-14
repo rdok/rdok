@@ -16,18 +16,7 @@ jobs:
       - uses: actions/checkout@v6
 
       - name: Fetch stats cards
-        run: |
-          mkdir -p stats
-          BASE="https://github-readme-stats-rdok.vercel.app"
-          COMMON="username=rdok&theme=gruvbox"
-
-          curl -sf \
-            "${BASE}/api?${COMMON}&show_icons=true&count_private=true" \
-            -o stats/github-stats.svg
-
-          curl -sf \
-            "${BASE}/api/top-langs?${COMMON}&layout=compact&langs_count=8&card_width=467" \
-            -o stats/top-langs.svg
+        run: python scripts/fetch_stats.py
 
       - name: Commit if changed
         run: |
