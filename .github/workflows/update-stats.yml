@@ -1,6 +1,8 @@
 name: Update Stats Cards
 
 on:
+  push:
+    branches: [main]
   schedule:
     - cron: "0 */6 * * *"
   workflow_dispatch:
@@ -16,7 +18,7 @@ jobs:
       - name: Fetch stats cards
         run: |
           mkdir -p stats
-          BASE="https://github-readme-stats.vercel.app"
+          BASE="https://github-readme-stats-rdok.vercel.app"
           COMMON="username=rdok&theme=gruvbox"
 
           curl -sf \
