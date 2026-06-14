@@ -24,7 +24,7 @@ jobs:
             -o stats/github-stats.svg
 
           curl -sf \
-            "${BASE}/api/top-langs?${COMMON}&layout=compact&langs_count=15" \
+            "${BASE}/api/top-langs?${COMMON}&layout=compact&langs_count=8&card_width=467" \
             -o stats/top-langs.svg
 
       - name: Commit if changed
