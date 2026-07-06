@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Commits  (last year) : 2904, Total PRs: 3523, Merged PRs Percentage: 94.18, Contributed to (last year): 40</desc>
+        <desc id="descId">Total Commits  (last year) : 2906, Total PRs: 3533, Merged PRs Percentage: 93.94, Contributed to (last year): 41</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 45.22652789324935;
+        stroke-dashoffset: 45.2264540966985;
       }
     }
   
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >94.18 %</text>
+      >93.94 %</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >40</text>
+      >41</text>
     </g>
   </g>
     </svg>
