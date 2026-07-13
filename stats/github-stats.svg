@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Commits  (last year) : 3160, Total PRs: 3540, Merged PRs Percentage: 93.90, Contributed to (last year): 42</desc>
+        <desc id="descId">Total Commits  (last year) : 3160, Total PRs: 3542, Merged PRs Percentage: 93.85, Contributed to (last year): 42</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >93.90 %</text>
+      >93.85 %</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
