@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Commits  (last year) : 3160, Total PRs: 3542, Merged PRs Percentage: 93.85, Contributed to (last year): 42</desc>
+        <desc id="descId">Total Commits  (last year) : 3170, Total PRs: 3542, Merged PRs Percentage: 93.85, Contributed to (last year): 42</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 45.21976519706391;
+        stroke-dashoffset: 45.219585745095266;
       }
     }
   
