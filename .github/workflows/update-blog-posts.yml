@@ -1,8 +1,9 @@
-name: Update Blog Posts
+name: Update Latest Post
 
-# Pulls the latest posts from the blog's RSS feed into the Writing section of README.md.
-# Scheduled off-cycle from update-stats.yml (which runs every 6 hours on the hour) so the two
-# jobs never race each other pushing to main. The output is templated as HTML list items, not
+# Pulls the newest post from the blog's RSS feed into the Latest section of README.md.
+# Scheduled off-cycle from update-stats.yml (every 6 hours on the hour) so the routine runs do not
+# overlap — but both workflows also run on dispatch, and update-stats runs on every push to main,
+# so a collision is still possible: hence the rebase before pushing. The section is HTML, not
 # markdown, because preview.py renders README.md raw — markdown would show as literal text there.
 on:
   schedule:
@@ -12,14 +13,27 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     permissions:
       contents: write
     steps:
       - uses: actions/checkout@v6
 
-      - uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: "https://stories.rdok.co.uk/rss.xml"
-          max_post_count: 5
-          template: '<li><a href="$url">$title</a></li>$newline'
-          commit_message: "chore: update latest posts"
+      - name: Test
+        run: |
+          pip install --quiet pytest
+          python -m pytest scripts --quiet
+
+      - name: Fetch the latest post
+        run: python scripts/fetch_latest_post.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || (
+            git commit -m "chore: update latest post" &&
+            git pull --rebase &&
+            git push
+          )
