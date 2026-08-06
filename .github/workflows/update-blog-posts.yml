@@ -1,0 +1,25 @@
+name: Update Blog Posts
+
+# Pulls the latest posts from the blog's RSS feed into the Writing section of README.md.
+# Scheduled off-cycle from update-stats.yml (which runs every 6 hours on the hour) so the two
+# jobs never race each other pushing to main. The output is templated as HTML list items, not
+# markdown, because preview.py renders README.md raw — markdown would show as literal text there.
+on:
+  schedule:
+    - cron: "30 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://stories.rdok.co.uk/rss.xml"
+          max_post_count: 5
+          template: '<li><a href="$url">$title</a></li>$newline'
+          commit_message: "chore: update latest posts"
